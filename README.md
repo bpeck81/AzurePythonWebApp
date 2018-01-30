@@ -2,6 +2,7 @@
 Setup tutorial for a basic Azure Web App using Python and the Flask API
 
 Steps:
+
 GET AZURE ACCESS
 1. Create Dreamspark account on Microsoft Imagine Website
 2. Verify student status to gain azure access
@@ -25,5 +26,7 @@ CREATE LOCAL REPOSITORY
 
 
 Code Used From: 
+
 https://github.com/Azure-Samples/python-docs-hello-world.git 
+
 https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-python
