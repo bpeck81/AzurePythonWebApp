@@ -16,7 +16,7 @@ GET AZURE ACCESS
 CREATE LOCAL REPOSITORY
 1. Run in Terminal 
     1. git clone https://github.com/Azure-Samples/python-docs-hello-world.git
-    2. git remote add azure <paste azure git url>
+    2. git remote add azure \<paste azure git url\>
     3. git push azure master 
         1. Enter web app user password
 2. Return to Azure Overview tab and press browse to view the deployed site
